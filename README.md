@@ -1,5 +1,4 @@
-# AyuNewDiscordBot
-鮎の新しく計画しているディスコードBotです
+
 <h1 align="center">私の名前は あゆです。</h1>
 
 
