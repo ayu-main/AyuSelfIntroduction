@@ -1,0 +1,2 @@
+# AyuNewDiscordBot
+鮎の新しく計画しているディスコードBotです
